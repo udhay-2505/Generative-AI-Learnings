@@ -1,5 +1,0 @@
-gradio>=3.40
-requests>=2.31
-openai>=1.0.0
-# Optional for JSON schema validation
-jsonschema>=4.21
