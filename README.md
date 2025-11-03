@@ -1,39 +1,22 @@
-# 🤖 Generative AI – My Learning Journey
+# 🤖 My Generative AI Learning Journey
 
-This repository contains my personal learnings, projects, and experiments in the field of **Generative Artificial Intelligence (AI)** — including text, image, and multimodal models.
+Welcome to my **Generative AI Learnings Repository** a collection of notebooks, experiments, and projects I’ve built while exploring the exciting world of **Generative Artificial Intelligence**.
 
----
-
-## 📘 Topics Covered
-
-- 🧠 **LLMs (Large Language Models)**  
-  - Prompt engineering  
-  - Fine-tuning and adapters  
-  - LangChain and RAG-based systems
-
-- 🎨 **Generative Image Models**  
-  - Stable Diffusion  
-  - ControlNet  
-  - Image-to-Image & Text-to-Image generation
-
-- 🎵 **Multimodal Models**  
-  - Audio generation  
-  - Video captioning  
-  - CLIP and vision-language understanding
+This repo serves as both a personal knowledge base and a practical showcase of my progress in **LLMs, diffusion models, and retrieval-augmented generation (RAG)** systems.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What You’ll Find Here
 
-- **Python 3.10+**
-- **Hugging Face Transformers**
-- **LangChain**
-- **OpenAI / Anthropic APIs**
-- **PyTorch / TensorFlow**
-- **Streamlit** (for small demos)
+### 🧩 Core Areas of Exploration
+| Domain | Key Learnings |
+|---------|----------------|
+| 🧠 **Large Language Models (LLMs)** | Prompt engineering, fine-tuning, embeddings, and conversational agents |
+| 📄 **Retrieval-Augmented Generation (RAG)** | Document loaders, vector databases, and context-aware question answering |
+| 🎨 **Image Generation** | Stable Diffusion, ControlNet, and generative image pipelines |
+| 🔊 **Multimodal AI** | Text-to-image, text-to-audio, and understanding CLIP-based embeddings |
 
 ---
 
 ## 📂 Repository Structure
-
 
